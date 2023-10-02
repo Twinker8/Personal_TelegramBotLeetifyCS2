@@ -10,7 +10,6 @@ namespace TelegramBotLeetify
     class Program
     {
         private static TelegramBotClient botClient;
-        private static HttpClient httpClient = new HttpClient();
 
         static void Main()
         {
